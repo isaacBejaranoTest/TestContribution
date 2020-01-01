@@ -1,2 +1,1 @@
 # TestContribution
-And other things
